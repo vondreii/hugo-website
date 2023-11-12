@@ -17,7 +17,6 @@ markup:
     guessSyntax: true
     style: emacs
 
-
 # Social links in footer, support github,twitter,stackoverflow,facebook
 social:
   # e.g.
@@ -26,13 +25,12 @@ social:
   # stackoverflow: your-github-link
   # facebook: your-facebook-link
 
-
 # Site parameters
 params:
   # Site Author
-  author: SVDK
+  author: SVDK (Sharlene Von Drehnen & Sora Khan)
   # Author biography
-  bio: ''
+  bio: ""
   # Site Description, used in HTML meat
   description: Hugo Blog
   enableRSS: true
@@ -42,21 +40,20 @@ params:
   enableGoogleAnalytics: true
 
   # Optional
-  home: '' # Default: Home
-  about: '' # Default: About
-  archive: '' # Default: Archive
-  tags: '' # Default: Tags
-  subscribe: '' # Default: Subscribe
-  olderPosts: '' # Default: Older Posts
-  newerPosts: '' # Default: Newer Posts
-  copyright: '' # Default: © Copyright 2021 ❤️ author
-  title404: '' # Default: 404 - Page Not Found
-  subtitle404: '' # Default: The content you're looking for doesn't seem to exist.
-  readMore: '' # Default: Read More
+  home: "" # Default: Home
+  about: "" # Default: About
+  archive: "" # Default: Archive
+  tags: "" # Default: Tags
+  subscribe: "" # Default: Subscribe
+  olderPosts: "" # Default: Older Posts
+  newerPosts: "" # Default: Newer Posts
+  copyright: "" # Default: © Copyright 2021 ❤️ author
+  title404: "" # Default: 404 - Page Not Found
+  subtitle404: "" # Default: The content you're looking for doesn't seem to exist.
+  readMore: "" # Default: Read More
 
   # Extra links in navigation
   links:
     # e.g.
     # - name: Project
     #   path: /project
-
