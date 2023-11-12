@@ -1,0 +1,11 @@
+To use images, enter this path into any markdown file:
+
+![image info](/images/<number>/<ImageName>)
+
+for example:
+
+![image info](/images/3/folders.png)
+
+
+
+

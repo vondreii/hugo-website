@@ -1,2 +1,5 @@
-# hugo-website
-This is a website made using Hugo, which is a static site generator.
+# Hugo Tutorials
+
+To run:
+- hugo serve in this folder
+
