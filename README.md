@@ -14,4 +14,5 @@ This website is live at this link:
   
 To run:
 - hugo serve in this folder
+- Go to http://localhost:1313/ (or whatever it says in the browser)
 

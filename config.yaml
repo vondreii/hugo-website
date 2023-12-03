@@ -30,9 +30,9 @@ params:
   # Site Author
   author: SVDK (Sharlene Von Drehnen & Sora Khan)
   # Author biography
-  bio: ""
+  bio: "To help other devs if they want to learn Hugo"
   # Site Description, used in HTML meat
-  description: Hugo Blog
+  description: Hugo Blog Tutorial
   enableRSS: true
   # To enable comments, you may need to set `disqusShortname`
   enableComments: true

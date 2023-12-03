@@ -20,16 +20,4 @@ The purpose of this site is to walk you through setting up your system to work w
   - Or, share videos or audio like we did for our podcast!
 - There's so much more you can do with Hugo, we have just scraped the surface.
 - But hopefully, you can see that you get to focus on your content by worrying less about setting up databases, for example.
-
-## Who Are We?
-
-{{< centered-img src="/images/about/profile.jpg" title="Sora and Sharlene" alt="Sora and Sharlene">}}
-
-**Sharlene Von Drehnen** is a Software Developer at XMPro/Professional Advantage.
-
-**Sora Khan** is a Full Stack Developer at SAPHI in Newcastle, Australia.
-
-Together, we are interested in learning new tech outside work and finding ways to have a more balanced life between work, life and mental health. 
-We are passionate about sharing what we learn, helping others grow and providing tech solutions where possible.
-
-In terms of sharing, we occasionally write on our blogs at [sorakhan.com](https://sorakhan.com/) and [vondreii.com/blog](https://vondreii.com/blog). We also co-host a podcast called [Getting Out There](https://GettingOutPodcast.com/), where we currently share our experiences or tips as students and how we're finding ways to have a more balanced life.
+  
